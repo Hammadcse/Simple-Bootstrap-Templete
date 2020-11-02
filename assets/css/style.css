@@ -1,0 +1,33 @@
+.banner-section .container {
+	background: #E8ECEF;
+}
+.banner-title {
+	font-size: 54px;
+}
+.btn.btn-primary {
+	font-size: 18px;
+}
+.banner-section .container {
+	padding-top: 72px;
+	padding-bottom: 60px;
+	padding-left: 46px;
+	box-sizing: border-box;
+}
+footer {
+	background: #232726;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+footer {
+	background: #353A40;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	color: #fff;
+	text-align: center;
+}footer {
+	background: #353A40;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	color: #fff;
+	text-align: center;
+}
